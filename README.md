@@ -15,6 +15,7 @@
 
 📍 Software Development Student at **INACAP**, Chile  
 💻 Passionate about cybersecurity, ethical hacking, and real-world solutions  
+
 ---
 
 ### 🛠️ Technologies & Skills
@@ -38,7 +39,7 @@
 
 ### 🚀 Featured Projects
 
-**🔍 Ethical Audit - ########.cl**  
+**🔍 Ethical Audit – ########.cl**  
 - Identified passive vulnerabilities (exposed WordPress REST API, unprotected login)  
 - Responsible disclosure via `4N63L@proton.me`  
 - No attacks or modifications — purely ethical and professional approach  
@@ -77,7 +78,6 @@ If you want to talk tech, security, digital philosophy or just exchange ideas:
 ---
 
 <div align="center">
-  <sub> "cualquier acción debe ser deliberadamente analizada, con la intención de que el placer de dicho cuestionamiento supere a la irreversible perpetuidad de su propia acción"  </sub>
-  <sub> "Any action must be deliberately analyzed, with the intent that the pleasure of such questioning outweighs the irreversible perpetuity of its own execution."   </sub>
+  <sub><i>"Cualquier acción debe ser deliberadamente analizada, con la intención de que el placer de dicho cuestionamiento supere a la irreversible perpetuidad de su propia acción."</i></sub><br>
+  <sub><i>"Any action must be deliberately analyzed, with the intent that the pleasure of such questioning outweighs the irreversible perpetuity of its own execution."</i></sub>
 </div>
-
