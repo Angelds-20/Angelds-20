@@ -1,57 +1,57 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/Angelds-20" alt="Avatar de Ángel" width="150" height="150">
-  
-  <h1>👋 ¡Hola! Soy Ángel (aka 4N63L)</h1>
+  <img src="https://avatars.githubusercontent.com/Angelds-20" alt="Ángel's Avatar" width="150" height="150">
+
+  <h1>👋 Hello! I'm Ángel (aka 4N63L)</h1>
 </div>
 
 <div align="center">
   <blockquote>
-    <i>"La obsesión es reflejo de excelencia que convierte experiencia en un método de supervivencia."</i><br>
-    <i>"Las musas perecen bajo el análisis."</i>
+    <i>"Obsession is a reflection of excellence that turns experience into a method of survival."</i><br>
+    <i>"Muses perish under analysis."</i>
   </blockquote>
 </div>
 
 ---
 
-📍 Estudiante Analista Programador en **INACAP**, Chile  
-💻 Apasionado por la ciberseguridad, el hacking ético y el desarrollo de soluciones reales  
+📍 Software Development Student at **INACAP**, Chile  
+💻 Passionate about cybersecurity, ethical hacking, and real-world solutions  
 ---
 
-### 🛠️ Tecnologías & Habilidades
+### 🛠️ Technologies & Skills
 
-#### 🔐 Ciberseguridad & Hacking Ético
-- Seguridad ofensiva (pentesting pasivo)
-- OSINT (Inteligencia de fuentes abiertas)
-- Herramientas: `curl`, `arjun`, `ParamWizard`, `jq`, navegación `Tor`
-- Scripts personalizados para escaneo y análisis con ayuda de IA (autodidacta)
-  
-#### 🖥️ Sistemas & Redes
-- Usuario avanzado de **Linux** (`Arch` como entorno principal)
-- Administración básica de redes, servidores y terminal
+#### 🔐 Cybersecurity & Ethical Hacking
+- Offensive security (passive pentesting)
+- OSINT (Open Source Intelligence)
+- Tools: `curl`, `arjun`, `ParamWizard`, `jq`, `Tor` navigation
+- Custom scripts for scanning and analysis with AI assistance (self-taught)
 
-#### 👨‍💻 Desarrollo de Software
+#### 🖥️ Systems & Networking
+- Advanced **Linux** user (`Arch` as main environment)
+- Basic network/server/shell administration
+
+#### 👨‍💻 Software Development
 - Front-End: `HTML`, `CSS`, `JavaScript`
 - Scripting: `Python`
-- Sistemas embebidos: `Arduino`, pantallas táctiles, joystick
+- Embedded systems: `Arduino`, touchscreens, joystick modules
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🚀 Featured Projects
 
-**🔍 Análisis Ético - ########.cl**
-- Identificación de vulnerabilidades pasivas (API REST de WordPress, login sin protección)
-- Comunicación responsable vía `4N63L@proton.me`
-- Sin ataques ni modificaciones — enfoque puramente ético y profesional
+**🔍 Ethical Audit - ########.cl**  
+- Identified passive vulnerabilities (exposed WordPress REST API, unprotected login)  
+- Responsible disclosure via `4N63L@proton.me`  
+- No attacks or modifications — purely ethical and professional approach  
 
-**💧 Ahorro de Agua en Autolavados**
-- Desarrollo de sistema inteligente para medir y cortar agua según tipo de vehículo
-- Integración de hardware (Arduino, sensores, pantallas) y software embebido
+**💧 Smart Water System for Car Washes**  
+- Intelligent system to measure and cut water flow based on vehicle type  
+- Integration of hardware (Arduino, sensors, displays) and embedded logic  
 
 ---
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Angelds-20&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Angelds-20&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelds-20&layout=compact&theme=dark)
 
 ---
@@ -68,16 +68,16 @@
 
 ---
 
-### 📬 Contacto
+### 📬 Contact
 
-Si querés hablar de tecnología, seguridad, filosofía digital o simplemente compartir ideas:
+If you want to talk tech, security, digital philosophy or just exchange ideas:
 
 📧 `4N63L@proton.me`
 
 ---
 
 <div align="center">
-  <sub>
-    Construyendo desde las sombras, con precisión y propósito.
-  </sub>
+  <sub> "cualquier acción debe ser deliberadamente analizada, con la intención de que el placer de dicho cuestionamiento supere a la irreversible perpetuidad de su propia acción"  </sub>
+  <sub> "Any action must be deliberately analyzed, with the intent that the pleasure of such questioning outweighs the irreversible perpetuity of its own execution."   </sub>
 </div>
+
