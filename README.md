@@ -25,8 +25,8 @@
 - Seguridad ofensiva (pentesting pasivo)
 - OSINT (Inteligencia de fuentes abiertas)
 - Herramientas: `curl`, `arjun`, `ParamWizard`, `jq`, navegación `Tor`
-- Scripts personalizados para escaneo y análisis con ayuda de IA
-
+- Scripts personalizados para escaneo y análisis con ayuda de IA (autodidacta)
+  
 #### 🖥️ Sistemas & Redes
 - Usuario avanzado de **Linux** (`Arch` como entorno principal)
 - Administración básica de redes, servidores y terminal
@@ -40,7 +40,7 @@
 
 ### 🚀 Proyectos Destacados
 
-**🔍 Análisis Ético - grupoasiachile.cl**
+**🔍 Análisis Ético - ########.cl**
 - Identificación de vulnerabilidades pasivas (API REST de WordPress, login sin protección)
 - Comunicación responsable vía `4N63L@proton.me`
 - Sin ataques ni modificaciones — enfoque puramente ético y profesional
