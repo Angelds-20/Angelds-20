@@ -15,8 +15,6 @@
 
 📍 Estudiante Analista Programador en **INACAP**, Chile  
 💻 Apasionado por la ciberseguridad, el hacking ético y el desarrollo de soluciones reales  
-☕ Siempre con un café fuerte sin azúcar al lado  
-
 ---
 
 ### 🛠️ Tecnologías & Habilidades
