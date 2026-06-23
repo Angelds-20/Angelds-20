@@ -65,4 +65,4 @@
 
 If you want to talk tech, security, or just exchange ideas, feel free to reach out:
 
-📧 `4N63L@proton.me`
+📧 `3N63L@proton.me`
