@@ -26,7 +26,6 @@
     ---
 
     ###  Actividad en GitHub
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Angelds-20&show_icons=true&theme=radical&hide_border=true" alt="Ángel's GitHub
-      Stats" />
+ <p align="center">
+      <img src="https://streak-stats.demolab.com/?user=Angelds-20&theme=radical&hide_border=true" alt="Ángel's GitHub Streak" />
     </p>
